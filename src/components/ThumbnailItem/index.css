@@ -1,1 +1,16 @@
 /* Write your code here. */
+.thumbnail-list-item {
+  list-style-type: none;
+  margin-right: 16px;
+  margin-top: 15px;
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+}
+.thumbnail-button {
+  background-color: #fff;
+  border-radius: 18px;
+  outline: none;
+  border: none;
+  cursor: pointer;
+}
